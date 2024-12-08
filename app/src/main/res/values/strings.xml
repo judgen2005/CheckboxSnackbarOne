@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CheckboxSnackbarOne</string>
+    <string name="edit_text_input">Введите данные</string>
+    <string name="button_save">Сохранить данные</string>
+    <string name="button_delete">Удалить данные</string>
+    <string name="text_view_output">Поле вывода</string>
 </resources>
